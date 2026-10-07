@@ -1,0 +1,510 @@
+{
+  "site": {
+    "artist": {
+      "name": "Joelyn",
+      "role": "Painter & visual artist",
+      "intro": "An evolving space for paintings, small observations, and stories told in color.",
+      "bio": [
+        "I’m Joelyn. This is a space for exploring color, noticing the everyday, and finding a little poetry in ordinary things.",
+        "A changing sky, a flower on the table, a face in a quiet moment — each offers a starting point. The work begins with looking, and leaves room for feeling.",
+        "This portfolio currently uses credited public-domain paintings as a demo collection, alongside sample journal writing and a stock studio photograph. Personal artwork and a full artist biography can take their place as the collection grows."
+      ],
+      "statement": "To make room for the ordinary. To follow the light. To let a painting hold a moment a little longer.",
+      "studioImage": {
+        "src": "/studio/paint-brushes.jpg",
+        "alt": "A close view of well-used paintbrushes with traces of colorful paint on their wooden handles.",
+        "width": 1800,
+        "height": 1200,
+        "credit": {
+          "label": "Steve A Johnson / Unsplash",
+          "url": "https://unsplash.com/photos/assorted-paint-brushes-IDmD4iw9XvE",
+          "license": "Unsplash License"
+        }
+      }
+    },
+    "navigation": [
+      {
+        "label": "Works",
+        "href": "/works"
+      },
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Journal",
+        "href": "/journal"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "collections": [
+      {
+        "id": "landscapes",
+        "label": "Landscapes"
+      },
+      {
+        "id": "florals",
+        "label": "Florals"
+      },
+      {
+        "id": "figures",
+        "label": "Figures"
+      }
+    ],
+    "home": {
+      "eyebrow": "Painter & visual artist",
+      "heading": "Stories told\nthrough color\nand form.",
+      "description": "A quiet collection of paintings and observations. An invitation to slow down, look closer, and stay a little while.",
+      "featuredArtworkSlug": "water-lily-pond",
+      "selectedArtworkSlugs": [
+        "still-life-with-flowers",
+        "stacks-of-wheat",
+        "two-sisters",
+        "self-portrait",
+        "the-poets-garden",
+        "chrysanthemums"
+      ],
+      "worksHeading": "A collection of moments,\nstudies, and stories.",
+      "aboutHeading": "Behind the canvas.",
+      "commissionHeading": "Something personal,\nsomething just for you.",
+      "commissionDescription": "Have a painting in mind, a story to share, or an idea for a collaboration? A conversation is a lovely place to begin."
+    },
+    "contact": {
+      "email": "hello@example.com",
+      "isPlaceholder": true,
+      "intro": "For a painting, a collaboration, or simply a hello. Share what you have in mind — every project starts with a conversation.",
+      "commissionInfo": "Include a little about your idea, the space the painting will live in, your preferred size, and any timing you have in mind. These are sample inquiry details; availability and pricing can be added when commissions open.",
+      "collaborationInfo": "For exhibitions, editorial projects, or creative collaborations, share an outline of the project and your proposed timeline. This demo gallery’s historic paintings are examples and are not offered for sale."
+    },
+    "socialLinks": [],
+    "journalIntro": "Notes on looking, making, and finding beauty in the spaces between. Sample writing for a journal that will grow over time.",
+    "pages": {
+      "works": {
+        "eyebrow": "The gallery",
+        "title": "A collection of quiet moments.",
+        "description": "Landscapes, florals, and figures. An unfolding conversation between color, light, and the everyday."
+      },
+      "about": {
+        "eyebrow": "About the artist",
+        "title": "Behind the canvas.",
+        "description": "An evolving space for paintings, small observations, and stories told in color."
+      },
+      "journal": {
+        "eyebrow": "From the studio",
+        "title": "Notes on looking, and making.",
+        "description": "Notes on looking, making, and finding beauty in the spaces between. Sample writing for a journal that will grow over time."
+      },
+      "contact": {
+        "eyebrow": "Commissions & collaborations",
+        "title": "Something beautiful starts with a conversation.",
+        "description": "For a painting, a collaboration, or simply a hello. Share what you have in mind — every project starts with a conversation."
+      },
+      "links": {
+        "eyebrow": "Painter & visual artist",
+        "title": "Joelyn",
+        "description": "A few places to wander."
+      },
+      "notFound": {
+        "eyebrow": "404 · A little off the path",
+        "title": "This space is still a blank canvas.",
+        "description": "The page you’re looking for isn’t here. There’s plenty to discover in the gallery."
+      }
+    }
+  },
+  "artworks": [
+    {
+      "id": "artic-110982",
+      "slug": "still-life-with-flowers",
+      "title": "Still Life with Flowers",
+      "artist": "Odilon Redon",
+      "medium": "Oil on canvas",
+      "year": "1905",
+      "dimensions": "92.7 × 65.5 cm (36 1/2 × 25 3/4 in.)",
+      "description": "Flowers and butterflies seem to drift through a field of warm, softened color. Redon leaves room around each bloom, giving this still life the quiet rhythm of a daydream. Public-domain demo artwork from the Art Institute of Chicago; not a work by Joelyn.",
+      "collectionId": "florals",
+      "image": {
+        "src": "/artworks/still-life-with-flowers.jpg",
+        "alt": "A tall vase of red, blue, and white flowers rising through a soft golden background, with butterflies among the stems.",
+        "width": 1920,
+        "height": 2806,
+        "credit": {
+          "label": "Odilon Redon · Art Institute of Chicago / Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Odilon_Redon_-_Still_Life_with_Flowers_-_1988.141.22_-_Art_Institute_of_Chicago.jpg",
+          "license": "Public domain"
+        }
+      }
+    },
+    {
+      "id": "artic-64818",
+      "slug": "stacks-of-wheat",
+      "title": "Stacks of Wheat (End of Summer)",
+      "artist": "Claude Monet",
+      "medium": "Oil on canvas",
+      "year": "1890–91",
+      "dimensions": "60 × 100.5 cm (23 5/8 × 39 9/16 in.)",
+      "description": "Two simple forms hold the light of a whole season. Short strokes of lilac, blue, and gold turn a familiar field into a study of warmth, shadow, and changing air. Public-domain demo artwork from the Art Institute of Chicago; not a work by Joelyn.",
+      "collectionId": "landscapes",
+      "image": {
+        "src": "/artworks/stacks-of-wheat.jpg",
+        "alt": "Two rounded wheat stacks in a sunlit field, painted in warm gold, mauve, and blue with long shadows across the grass.",
+        "width": 1920,
+        "height": 1138,
+        "credit": {
+          "label": "Claude Monet · Art Institute of Chicago / Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Stacks_of_Wheat_(End_of_Summer)_-_1985.1103_-_Art_Institute_of_Chicago.jpg",
+          "license": "Public domain"
+        }
+      }
+    },
+    {
+      "id": "artic-14655",
+      "slug": "two-sisters",
+      "title": "Two Sisters (On the Terrace)",
+      "artist": "Pierre-Auguste Renoir",
+      "medium": "Oil on canvas",
+      "year": "1881",
+      "dimensions": "100.4 × 80.9 cm (39 1/2 × 31 7/8 in.)",
+      "description": "A red hat, a basket of wool, a river beyond the terrace. Renoir brings the figures and their surroundings together through small, bright touches of color. Public-domain demo artwork from the Art Institute of Chicago; not a work by Joelyn.",
+      "collectionId": "figures",
+      "image": {
+        "src": "/artworks/two-sisters.jpg",
+        "alt": "Two girls sit on a terrace overlooking green trees and water; the older girl wears a bright red hat and the younger holds a basket.",
+        "width": 1920,
+        "height": 2383,
+        "credit": {
+          "label": "Pierre-Auguste Renoir · Art Institute of Chicago / Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_Two_Sisters_(On_the_Terrace)_-_1933.455_-_Art_Institute_of_Chicago.jpg",
+          "license": "Public domain"
+        }
+      }
+    },
+    {
+      "id": "artic-80607",
+      "slug": "self-portrait",
+      "title": "Self-Portrait",
+      "artist": "Vincent van Gogh",
+      "medium": "Oil on artist's board, mounted on cradled panel",
+      "year": "1887",
+      "dimensions": "41 × 32.5 cm (16 1/8 × 12 13/16 in.)",
+      "description": "A face emerges from a mosaic of small marks. Warm orange and cool green sit side by side, lending movement and intensity to a closely observed portrait. Public-domain demo artwork from the Art Institute of Chicago; not a work by Joelyn.",
+      "collectionId": "figures",
+      "image": {
+        "src": "/artworks/self-portrait.jpg",
+        "alt": "Vincent van Gogh with red hair and a beard, looking outward against a background of short blue, green, and orange brushstrokes.",
+        "width": 1920,
+        "height": 2435,
+        "credit": {
+          "label": "Vincent van Gogh · Art Institute of Chicago / Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Self-Portrait_-_1954.326_-_Art_Institute_of_Chicago.jpg",
+          "license": "Public domain"
+        }
+      }
+    },
+    {
+      "id": "artic-14586",
+      "slug": "the-poets-garden",
+      "title": "The Poet's Garden",
+      "artist": "Vincent van Gogh",
+      "medium": "Oil on canvas",
+      "year": "1888",
+      "dimensions": "73 × 92.1 cm (28 3/4 × 36 1/4 in.)",
+      "description": "Deep green shadows meet a golden sky, while grasses ripple across the foreground. The garden becomes a place to pause: layered, intimate, and full of living color. Public-domain demo artwork from the Art Institute of Chicago; not a work by Joelyn.",
+      "collectionId": "landscapes",
+      "image": {
+        "src": "/artworks/the-poets-garden.jpg",
+        "alt": "A lush green garden with thick grasses, dark cypress trees, and rounded golden foliage beneath a yellow sky.",
+        "width": 1920,
+        "height": 1524,
+        "credit": {
+          "label": "Vincent van Gogh · Art Institute of Chicago / Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_The_Poet%27s_Garden_-_1933.433_-_Art_Institute_of_Chicago.jpg",
+          "license": "Public domain"
+        }
+      }
+    },
+    {
+      "id": "artic-16617",
+      "slug": "chrysanthemums",
+      "title": "Chrysanthemums",
+      "artist": "Pierre-Auguste Renoir",
+      "medium": "Oil on canvas",
+      "year": "1881–82",
+      "dimensions": "54.8 × 65.8 cm (21 5/8 × 25 7/8 in.)",
+      "description": "A gathered bouquet opens into a lively field of orange, cream, pink, and green. The loose edges of the petals let color carry the shape of each flower. Public-domain demo artwork from the Art Institute of Chicago; not a work by Joelyn.",
+      "collectionId": "florals",
+      "image": {
+        "src": "/artworks/chrysanthemums.jpg",
+        "alt": "An overflowing bouquet of orange, yellow, and white chrysanthemums in a brown vase on a blue-green patterned tablecloth.",
+        "width": 1920,
+        "height": 1598,
+        "credit": {
+          "label": "Pierre-Auguste Renoir · Art Institute of Chicago / Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_Chrysanthemums_-_1933.1173_-_Art_Institute_of_Chicago.jpg",
+          "license": "Public domain"
+        }
+      }
+    },
+    {
+      "id": "artic-97933",
+      "slug": "water-lily-pond",
+      "title": "Water Lily Pond",
+      "artist": "Claude Monet",
+      "medium": "Oil on canvas",
+      "year": "1917–19",
+      "dimensions": "130.2 × 201.9 cm (51 1/2 × 79 1/2 in.)",
+      "description": "Water, sky, and foliage dissolve into overlapping strokes of green, violet, and rose. The whole surface feels alive with reflected light, inviting the eye to wander without a fixed horizon. Public-domain demo artwork from the Art Institute of Chicago; not a work by Joelyn.",
+      "collectionId": "landscapes",
+      "image": {
+        "src": "/artworks/water-lily-pond.jpg",
+        "alt": "Pink water lilies float across green and blue pond reflections, with broad ochre, violet, and turquoise brushstrokes filling the canvas.",
+        "width": 3000,
+        "height": 1947,
+        "credit": {
+          "label": "Claude Monet · Art Institute of Chicago / Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Monet_-_Water_Lily_Pond,_1917-19,_1982.825.jpg",
+          "license": "Public domain"
+        }
+      }
+    },
+    {
+      "id": "artic-20534",
+      "slug": "roses-in-a-bowl",
+      "title": "Roses in a Bowl",
+      "artist": "Henri Fantin-Latour",
+      "medium": "Oil on canvas",
+      "year": "1881",
+      "dimensions": "26.2 × 31.4 cm (10 5/16 × 12 3/8 in.)",
+      "description": "Pale roses rest against a dark, earth-colored background. Their small variations in tone bring attention to the weight of the blossoms, the curl of a petal, and the quiet presence of a bowl. Public-domain demo artwork from the Art Institute of Chicago; not a work by Joelyn.",
+      "collectionId": "florals",
+      "image": {
+        "src": "/artworks/roses-in-a-bowl.jpg",
+        "alt": "Soft pale pink, cream, and yellow roses gathered in a shallow bowl against a deep brown background.",
+        "width": 1920,
+        "height": 1602,
+        "credit": {
+          "label": "Henri Fantin-Latour · Art Institute of Chicago / Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Henri_Fantin-Latour_-_Roses_in_a_Bowl_-_1964.203_-_Art_Institute_of_Chicago.jpg",
+          "license": "Public domain"
+        }
+      }
+    },
+    {
+      "id": "artic-27949",
+      "slug": "madame-roulin",
+      "title": "Madame Roulin Rocking the Cradle (La berceuse)",
+      "artist": "Vincent van Gogh",
+      "medium": "Oil on canvas",
+      "year": "1889",
+      "dimensions": "92.7 × 73.8 cm (36 1/2 × 29 1/2 in.)",
+      "description": "A seated figure anchors a room of vivid floral patterns. The strong outlines and green-and-orange palette bring a domestic moment into an expressive, almost decorative world. Public-domain demo artwork from the Art Institute of Chicago; not a work by Joelyn.",
+      "collectionId": "figures",
+      "image": {
+        "src": "/artworks/madame-roulin.jpg",
+        "alt": "A seated woman with red hair wears a green dress and holds a cord in her hands before bold, flower-patterned wallpaper.",
+        "width": 1920,
+        "height": 2442,
+        "credit": {
+          "label": "Vincent van Gogh · Art Institute of Chicago / Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Madame_Roulin_Rocking_the_Cradle_(La_berceuse)_-_1926.200_-_Art_Institute_of_Chicago.jpg",
+          "license": "Public domain"
+        }
+      }
+    }
+  ],
+  "journal": [
+    {
+      "slug": "on-looking-slowly",
+      "title": "On looking slowly",
+      "excerpt": "What changes when we give a painting — or an ordinary afternoon — a little more of our time.",
+      "date": "2026-09-18",
+      "category": "Ways of seeing",
+      "readingMinutes": 3,
+      "image": {
+        "src": "/artworks/water-lily-pond.jpg",
+        "alt": "Pink water lilies float across green and blue pond reflections, with broad ochre, violet, and turquoise brushstrokes filling the canvas.",
+        "width": 3000,
+        "height": 1947,
+        "credit": {
+          "label": "Claude Monet · Art Institute of Chicago / Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Monet_-_Water_Lily_Pond,_1917-19,_1982.825.jpg",
+          "license": "Public domain"
+        }
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "A painting rarely gives everything away at once. The first glance finds the largest shape, the brightest color, perhaps a familiar subject. Then the eye begins its quieter work. It follows a line, notices a patch of blue, returns to something it almost missed."
+        },
+        {
+          "type": "paragraph",
+          "text": "There is pleasure in allowing that second look. Without needing to name every brushstroke, we can simply notice how the surface changes as we move through it. A color that seemed green from a distance becomes gold, violet, and turquoise up close."
+        },
+        {
+          "type": "heading",
+          "text": "Give the eye somewhere to wander"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Monet’s Water Lily Pond, the usual anchors of a landscape fall away. There is no clear horizon to divide earth from sky. Reflections move across the canvas, and small pink flowers give the eye a place to rest before it wanders again. Looking at it feels less like reading a scene and more like following the light."
+        },
+        {
+          "type": "paragraph",
+          "text": "Try staying with one part of a painting for a moment. Notice its edges: sharp in one place, nearly lost in another. Then look at the space around it. The shapes you first treated as background may begin to feel just as present as the subject."
+        },
+        {
+          "type": "quote",
+          "text": "Attention is a kind of space we can give to things."
+        },
+        {
+          "type": "heading",
+          "text": "Carry that attention outside"
+        },
+        {
+          "type": "paragraph",
+          "text": "The same practice belongs to ordinary days. A shadow moves across a table. Leaves change color when the clouds pass. A glass of water holds a small, moving picture of the room. None of these things asks for an answer. They ask only to be seen."
+        },
+        {
+          "type": "paragraph",
+          "text": "It can help to choose one small observation and stay with it for a minute. There is no need to photograph it, turn it into a painting, or make it useful. Some moments can remain moments."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is a sample journal entry. The featured image is Claude Monet’s Water Lily Pond, 1917–19, from the Art Institute of Chicago’s public-domain collection."
+        }
+      ]
+    },
+    {
+      "slug": "a-palette-for-quiet-moments",
+      "title": "A palette for quiet moments",
+      "excerpt": "Earth, rose, green, and a little blue: a few thoughts on color that leaves room to breathe.",
+      "date": "2026-09-08",
+      "category": "Color notes",
+      "readingMinutes": 3,
+      "image": {
+        "src": "/artworks/chrysanthemums.jpg",
+        "alt": "An overflowing bouquet of orange, yellow, and white chrysanthemums in a brown vase on a blue-green patterned tablecloth.",
+        "width": 1920,
+        "height": 1598,
+        "credit": {
+          "label": "Pierre-Auguste Renoir · Art Institute of Chicago / Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_Chrysanthemums_-_1933.1173_-_Art_Institute_of_Chicago.jpg",
+          "license": "Public domain"
+        }
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "A quiet palette does not have to be a pale one. Deep greens, warm ochres, and a touch of red can sit together without raising their voices. Often the feeling comes from the relationship between colors, rather than from any single color on its own."
+        },
+        {
+          "type": "paragraph",
+          "text": "Look at the flowers in Renoir’s Chrysanthemums. There is so much warmth in the orange and cream petals, but it is the blue-green cloth beneath them that lets the bouquet breathe. The cooler field gives each warm mark a little more presence."
+        },
+        {
+          "type": "heading",
+          "text": "Begin with a relationship"
+        },
+        {
+          "type": "paragraph",
+          "text": "Instead of starting with a list of favorite colors, begin with a pair: warm and cool, light and dark, soft and clear. Add one color, then notice what happens to the other. A brown can look almost violet beside ochre; a muted green can feel bright against a dusty rose."
+        },
+        {
+          "type": "paragraph",
+          "text": "A small page of color studies is a useful place to explore. Let each patch touch another. Try the same color beside three different neighbors. There is no finished picture to worry about, only a series of small discoveries."
+        },
+        {
+          "type": "quote",
+          "text": "Sometimes the most expressive color is the one that makes room for another."
+        },
+        {
+          "type": "heading",
+          "text": "Leave a little room"
+        },
+        {
+          "type": "paragraph",
+          "text": "A painting needs places where the eye can pause. That might be a broad area of a single color, a softened edge, or a quieter passage between two busy shapes. Restraint makes the livelier marks feel more alive."
+        },
+        {
+          "type": "paragraph",
+          "text": "The palette can also begin outside the studio: a dry leaf against a blue pavement, a cream wall beside a wooden door, the pink underside of a flower. These small arrangements are already doing the work of composition."
+        },
+        {
+          "type": "paragraph",
+          "text": "There is no perfect recipe for quiet color. The useful question is simpler: does each color have enough space to be itself, and does it help us see the colors around it?"
+        },
+        {
+          "type": "paragraph",
+          "text": "This is a sample journal entry. The featured image is Pierre-Auguste Renoir’s Chrysanthemums, 1881–82, from the Art Institute of Chicago’s public-domain collection."
+        }
+      ]
+    },
+    {
+      "slug": "the-space-between-marks",
+      "title": "The space between marks",
+      "excerpt": "A note on beginnings, imperfect studies, and giving a painting room to find its own shape.",
+      "date": "2026-08-23",
+      "category": "Studio notes",
+      "readingMinutes": 3,
+      "image": {
+        "src": "/studio/paint-brushes.jpg",
+        "alt": "A close view of well-used paintbrushes with traces of colorful paint on their wooden handles.",
+        "width": 1800,
+        "height": 1200,
+        "credit": {
+          "label": "Steve A Johnson / Unsplash",
+          "url": "https://unsplash.com/photos/assorted-paint-brushes-IDmD4iw9XvE",
+          "license": "Unsplash License"
+        }
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "The blank page can make a beginning feel larger than it is. Before there is an image, there is a decision: which brush, which color, where to place the first mark. It helps to remember that the first mark does not have to explain the whole painting."
+        },
+        {
+          "type": "paragraph",
+          "text": "A small study offers a gentler beginning. A few shapes, a limited palette, a familiar object on the table. There is enough to respond to, without needing to resolve every detail."
+        },
+        {
+          "type": "heading",
+          "text": "Let the study stay a study"
+        },
+        {
+          "type": "paragraph",
+          "text": "Some paintings begin as questions. What happens if this shadow is cooler? What if the background is as present as the figure? What can be left out? A study can answer one of these questions without becoming a finished work."
+        },
+        {
+          "type": "paragraph",
+          "text": "The useful part is often the imperfect part: a line that moves in an unexpected way, a mixture that is not quite the intended color, a shape that leaves more space than planned. Looking at these moments with curiosity can be more helpful than correcting them immediately."
+        },
+        {
+          "type": "quote",
+          "text": "A pause can be part of the painting, too."
+        },
+        {
+          "type": "heading",
+          "text": "Step back, then return"
+        },
+        {
+          "type": "paragraph",
+          "text": "Distance changes the picture. Up close, it is easy to become occupied with a single edge. From the other side of the room, the larger relationships return. A small dark mark may have more weight than expected; a busy area may be asking for a quiet neighbor."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stepping away for a while gives another kind of distance. The work remains where it is, but the eye returns a little differently. It may be easier to see what the painting already has, rather than what we hoped it would become."
+        },
+        {
+          "type": "paragraph",
+          "text": "There is room for unfinished work in a practice. It records an attempt, a direction, a particular way of seeing on a particular day. Not every beginning has to become a conclusion."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is a sample journal entry. The stock studio photograph of paintbrushes is by Steve A Johnson, used under the Unsplash License."
+        }
+      ]
+    }
+  ]
+}
